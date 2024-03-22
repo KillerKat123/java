@@ -1,12 +1,12 @@
 repo_name: KillerKat123/java
-report_id: c3034e6c157879cf7c075f2827c426fe
+report_id: 72f0aad693518c1642f677af82da3da7
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-15T13:18:12+00:00'
+timestamp: '2024-03-22T08:03:24+00:00'
 requested_by: marcin-cebo
 provider: github
 branch: master
-detected_tools_count: 14
+detected_tools_count: 9
 tools:
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -64,6 +64,20 @@ tools:
   detection_source: build.gradle
   last_updated_by: marcin-cebo
   last_updated_on: 2022-12-06 09:26:50.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/KillerKat123/java/blob/master/.pubnub.yml
+  detection_source: ".pubnub.yml"
+  last_updated_by: Max Presman
+  last_updated_on: 2017-01-25 00:13:16.000000000 Z
 - name: Logback
   description: A logging framework for Java applications
   website_url: https://logback.qos.ch/
@@ -103,80 +117,3 @@ tools:
   detection_source: build.gradle
   last_updated_by: marcin-cebo
   last_updated_on: 2023-03-06 11:29:49.000000000 Z
-- name: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor
-  description: Support for reading and writing Concise Binary Object Representation
-  version: 2.14.2
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 11:29:49.000000000 Z
-- name: com.google.code.gson:gson
-  description: Gson JSON library
-  version: 2.9.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 11:29:49.000000000 Z
-- name: org.jetbrains.kotlin:kotlin-stdlib-jdk8
-  description: Kotlin Standard Library JDK 8 extension
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 16:08:22.000000000 Z
-- name: org.jetbrains:annotations
-  description: A set of annotations used for code inspection support and code documentation
-  version: 23.0.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 16:08:22.000000000 Z
-- name: org.junit.jupiter:junit-jupiter
-  description: Module "junit-jupiter" of JUnit 5
-  version: 5.8.2
-  license: EPL-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 16:08:22.000000000 Z
-- name: org.junit.vintage:junit-vintage-engine
-  description: Module "junit-vintage-engine" of JUnit 5
-  version: 5.8.2
-  license: EPL-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/KillerKat123/java/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: marcin-cebo
-  last_updated_on: 2023-03-06 16:08:22.000000000 Z
