@@ -7,6 +7,7 @@ KillerKat123/java is built on the following main stack:
 - [Kotlin](https://kotlinlang.org/) – Languages
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Istio](https://istio.io/) – Microservices Tools
 - [Logback](https://logback.qos.ch/) – Log Management
 - [Dataform](https://dataform.co/) – Business Intelligence
 
@@ -22,6 +23,7 @@ KillerKat123/java is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
 
@@ -34,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KillerKat123/java](https://github.com/KillerKat123/java)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|03/15/24 <br/>Report generated|
+|9<br/>Tools used|03/22/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -59,7 +61,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -81,6 +83,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'>
   <br>
   <sub><a href="https://www.gradle.org/">Gradle</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
+  <br>
+  <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -110,19 +120,13 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (1)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (7)
+## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|v2.14.2|03/06/23|marcin-cebo |Apache-2.0|N/A|
-|[com.fasterxml.jackson.dataformat:jackson-dataformat-cbor](http://github.com/FasterXML/jackson-dataformats-binary)|v2.14.2|03/06/23|marcin-cebo |Apache-2.0|N/A|
-|[com.google.code.gson:gson](https://github.com/google/gson)|v2.9.0|03/06/23|marcin-cebo |Apache-2.0|N/A|
-|[org.jetbrains.kotlin:kotlin-stdlib-jdk8](https://kotlinlang.org/)|N/A|03/06/23|marcin-cebo |Apache-2.0|N/A|
-|[org.jetbrains:annotations](https://github.com/JetBrains/java-annotations)|v23.0.0|03/06/23|marcin-cebo |Apache-2.0|N/A|
-|[org.junit.jupiter:junit-jupiter](https://junit.org/junit5/)|v5.8.2|03/06/23|marcin-cebo |EPL-2.0|N/A|
-|[org.junit.vintage:junit-vintage-engine](https://junit.org/junit5/)|v5.8.2|03/06/23|marcin-cebo |EPL-2.0|N/A|
 
 <br/>
 <div align='center'>
